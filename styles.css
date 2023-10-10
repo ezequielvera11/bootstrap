@@ -1,0 +1,39 @@
+.navbarColor {
+    background-color: #6C757D;
+}
+
+.navbar li {
+    color: white;
+}
+
+.nav-item {
+    margin-left: 5rem;
+}
+
+.titulo {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.opciones a {
+    border: 1px solid;
+    border-color: rgb(192, 190, 190);
+    margin-top: 0.1rem;
+    padding: 0.7rem;
+}
+
+.texto {
+    background-color: #F8F9FA;
+    font-size: small;
+}
+
+.texto p {
+    text-align: justify;
+}
+
+@media (max-width:992px) {
+    .row {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+}
